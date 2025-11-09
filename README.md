@@ -65,9 +65,6 @@ This project helped me practice:
 - Recreating existing website designs
 - Project organization and file management
 
-## 🤝 Contributing
-
-Feel free to fork this project and submit pull requests for any improvements!
 
 ## 📝 License
 
