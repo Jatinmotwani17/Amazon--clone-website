@@ -25,11 +25,12 @@ This project is a front-end clone of Amazon's homepage, designed to practice and
 ```
 ├── practice.html      # Main HTML file
 ├── style1.css        # CSS stylesheet
-├── amazon_logo.png   # Amazon logo
-├── hero_image.jpg    # Hero section background
-├── box1_image.jpg    # Category images
-├── box2_image.jpg
-├── ...               # Additional category images
+├── images/           # Image assets folder
+│   ├── amazon_logo.png   # Amazon logo
+│   ├── hero_image.jpg    # Hero section background
+│   ├── box1_image.jpg    # Category images
+│   ├── box2_image.jpg
+│   └── ...               # Additional category images
 └── README.md         # Project documentation
 ```
 
